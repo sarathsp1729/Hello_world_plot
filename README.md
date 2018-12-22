@@ -1,3 +1,3 @@
-# Hello_world_plot
+# Hello_world
 # Getting started on Git
 
